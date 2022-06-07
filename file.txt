@@ -1,4 +1,8 @@
 hello
+<<<<<<< HEAD
 hi 
 hellowww
 
+=======
+this is me this you this is how we are
+>>>>>>> 41fdec40d5e5aa06022e01feb853ad964639e706
