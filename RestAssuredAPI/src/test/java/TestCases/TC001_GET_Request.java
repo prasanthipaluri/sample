@@ -25,7 +25,7 @@ public class TC001_GET_Request {
 	  
 	  String responseBody=response.getBody().asString();
 	  System.out.println("Response Body is:" +responseBody);
-          System.out.println();
+          
 		 
 	}
 }
